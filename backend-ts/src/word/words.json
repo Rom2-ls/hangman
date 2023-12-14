@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "word": "pomme"
+  },
+  {
+    "id": 2,
+    "word": "banane"
+  },
+  {
+    "id": 3,
+    "word": "carotte"
+  },
+  {
+    "id": 4,
+    "word": "chien"
+  },
+  {
+    "id": 5,
+    "word": "elephant"
+  },
+  {
+    "id": 6,
+    "word": "poisson"
+  },
+  {
+    "id": 7,
+    "word": "raisin"
+  },
+  {
+    "id": 8,
+    "word": "cheval"
+  },
+  {
+    "id": 9,
+    "word": "glace"
+  },
+  {
+    "id": 10,
+    "word": "meduse"
+  },
+  {
+    "id": 11,
+    "word": "orange"
+  },
+  {
+    "id": 12,
+    "word": "kiwi"
+  },
+  {
+    "id": 13,
+    "word": "pamplemousse"
+  },
+  {
+    "id": 14,
+    "word": "ananas"
+  },
+  {
+    "id": 15,
+    "word": "tomate"
+  },
+  {
+    "id": 16,
+    "word": "chat"
+  },
+  {
+    "id": 17,
+    "word": "chapeau"
+  },
+  {
+    "id": 18,
+    "word": "chocolat"
+  },
+  {
+    "id": 19,
+    "word": "fleur"
+  },
+  {
+    "id": 20,
+    "word": "guitare"
+  },
+  {
+    "id": 21,
+    "word": "livre"
+  },
+  {
+    "id": 22,
+    "word": "montagne"
+  },
+  {
+    "id": 23,
+    "word": "parapluie"
+  },
+  {
+    "id": 24,
+    "word": "plage"
+  },
+  {
+    "id": 25,
+    "word": "soleil"
+  },
+  {
+    "id": 26,
+    "word": "train"
+  },
+  {
+    "id": 27,
+    "word": "voiture"
+  },
+  {
+    "id": 28,
+    "word": "ordinateur"
+  },
+  {
+    "id": 29,
+    "word": "telephone"
+  },
+  {
+    "id": 30,
+    "word": "table"
+  }
+]
