@@ -76,10 +76,7 @@ export class ExpressApplication {
   }
 
   private configureExpressRouter(): void {
-    this.expressRouter = new ExpressRouter(
-      this.partyService,
-      this.wordService,
-    );
+    this.expressRouter = new ExpressRouter(this.partyService, this.wordService);
   }
 
   private configureServer(): void {

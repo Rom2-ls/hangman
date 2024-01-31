@@ -26,7 +26,7 @@ export class PartyJSONService implements PartyService {
   }
 
   async createParty(party: Party): Promise<Party> {
-    const newParty = { 
+    const newParty = {
       ...party,
       id: this.getNextPartyId(),
       lettersUsed: [],
